@@ -17,7 +17,7 @@ It also includes a lightweight frontend built with HTML, CSS, and JavaScript (Fe
 ---
 
 ## 📂 Project Structure
-todo-app/
+```todo-app/
 │
 ├── public/
 │ ├── index.html # Frontend page
@@ -26,7 +26,7 @@ todo-app/
 ├── tasks.json # Stores task data
 ├── server.js # Express.js backend
 ├── package.json # Node dependencies
-└── README.md
+└── README.md```
 
 ---
 
@@ -35,7 +35,7 @@ todo-app/
 ### 1️ Clone the Repository
 ```bash
 git clone https://github.com/YOUR-USERNAME/todo-app-express.git
-cd todo-app-express
+cd todo-app-express```
 
 ###2️ Install Dependencies
 npm install
